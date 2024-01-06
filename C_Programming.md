@@ -13,7 +13,7 @@ Pointer arithmetic in C allows for manipulation and traversal of memory location
         
         ```c
         int numbers[] = {1, 2, 3, 4, 5};
-        int *ptr = numbers;
+        int *ptr = numbers; 
         
         // Move to the next element
         ptr++;
