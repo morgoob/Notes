@@ -1,11 +1,5 @@
 # Linux
 
-Archive: No
-Area/Resource: Engineering (https://www.notion.so/Engineering-f5f1ff397fb54ec8a609767915d2db32?pvs=21)
-URL: https://youtu.be/sWbUDq4S6Y8?si=2opCZxYJsvjQ4Spm
-
-- Quick Links
-
 # Useful Terms
 
 ---
