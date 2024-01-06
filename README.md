@@ -8,6 +8,7 @@ This repository contains my personal notes on various topics.
 2. [**C Programming and Memory Management**](C_Programming.md)
 3. [**Python Basics**](Python_Basics.md)
 4. [**Python Data Structures & Algorithms**](Python_DSA.md)
+5. [**Embedded Systems**](Embedded_Systems.md)
 
 ## Usage
 
