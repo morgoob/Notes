@@ -935,3 +935,9 @@ arr = [12, 11, 13, 5, 6, 7]
 merge_sort(arr)
 print(arr)  # Output: [5, 6, 7, 11, 12, 13]
 ```
+        # Citations and Thank Yous
+        
+        ---
+        
+        These notes were made possible by this wonderful playlist on youtube (and some help formatting/paraphrasing by ChatGPT):
+        [https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
