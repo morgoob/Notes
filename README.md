@@ -4,8 +4,7 @@ This repository contains my personal notes on various topics.
 
 ## Topics
 
-1. **Linux**
-   - [Linux Notes](notes/Linux.md)
+1. [**Linux**](Linux.md)
 
 
 ## Usage
