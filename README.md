@@ -6,6 +6,7 @@ This repository contains my personal notes on various topics.
 
 1. [**Linux**](Linux.md)
 2. [**C Programming and Memory Management**](C_Programming.md)
+3. [**Python Basics**](Python_Basics.md)
 
 
 ## Usage
