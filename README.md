@@ -19,4 +19,4 @@ If you find any errors, have suggestions, or want to contribute, please open an 
 
 ## Author
 
-- [Morgan Lloyd]
+- [Morgan Lloyd](https://github.com/morgoob)
