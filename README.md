@@ -5,6 +5,7 @@ This repository contains my personal notes on various topics.
 ## Topics
 
 1. [**Linux**](Linux.md)
+2. [**C Programming and Memory Management**](C_Programming.md)
 
 
 ## Usage
