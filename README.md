@@ -44,7 +44,6 @@ This repository contains my personal notes on various topics.
    - Quicksort
    - Insertion Sort
    - Merge Sort
-7. 
 
 ## Usage
 
