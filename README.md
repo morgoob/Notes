@@ -14,7 +14,13 @@ This repository contains my personal notes on various topics.
 3. [**C Memory Management**](C_Programming.md)
    - Pointers
    - Memory Management
-4. [**Python Basics**](Python_Basics.md)
+4. [**Embedded Systems**](Embedded_Systems.md) 
+   - Architecure and Memory
+   - Embedded Linux Systems
+   - Real-Time Operating Systems
+   - Communication Protocols (BLE, I2C, SPI, UART, USB, Ethernet/EtherCAT)
+   - Miscellaneous Important Topics (Semaphores & Mutexes, DMAs, etc..)
+5. [**Python Basics**](Python_Basics.md)
    - Numbers
    - Strings
    - Lists
@@ -24,7 +30,7 @@ This repository contains my personal notes on various topics.
    - While Loops
    - Functions
    - Sets 
-5. [**Python Data Structures & Algorithms**](Python_DSA.md)
+6. [**Python Data Structures & Algorithms**](Python_DSA.md)
    - Big O Notation
    - Arrays
    - Linked Lists
@@ -38,12 +44,7 @@ This repository contains my personal notes on various topics.
    - Quicksort
    - Insertion Sort
    - Merge Sort
-6. [**Embedded Systems**](Embedded_Systems.md) 
-   - Architecure and Memory
-   - Embedded Linux Systems
-   - Real-Time Operating Systems
-   - Communication Protocols (BLE, I2C, SPI, UART, USB, Ethernet/EtherCAT)
-   - Miscellaneous Important Topics (Semaphores & Mutexes, DMAs, etc..)
+7. 
 
 ## Usage
 
