@@ -38,7 +38,7 @@ This repository contains my personal notes on various topics.
    - Quicksort
    - Insertion Sort
    - Merge Sort
-6. [**Embedded Systems**](Embedded_Systems.md) Includes:
+6. [**Embedded Systems**](Embedded_Systems.md) 
    - Architecure and Memory
    - Embedded Linux Systems
    - Real-Time Operating Systems
