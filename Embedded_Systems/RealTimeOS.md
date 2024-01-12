@@ -1,7 +1,3 @@
-# Real-Time Operating Systems
-
-Archive: No
-
 # Real-Time Operating Systems (RTOS)
 
 ---
