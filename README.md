@@ -16,10 +16,9 @@ This repository contains my personal notes on various topics.
    - Memory Management
 4. [**Embedded Systems**](./Embedded_Systems) 
    - [Embedded System Basics](./Embedded_Systems/Embedded_System_Basics.md)
-   - Embedded Linux Systems
-   - Real-Time Operating Systems
-   - Communication Protocols (BLE, I2C, SPI, UART, USB, Ethernet/EtherCAT)
-   - Miscellaneous Important Topics (Semaphores & Mutexes, DMAs, etc..)
+   - [Embedded Linux Systems](./Embedded_Systems/Embedded_Linux_Systems.md)
+   - [Real-Time Operating Systems](./Embedded_Systems/RealTime_OS.md)
+   - [Communication Protocols](./Embedded_Systems/Communication_Protocols.md)
 5. [**Python Basics**](Python_Basics.md)
    - Numbers
    - Strings
