@@ -16,9 +16,26 @@ This repository contains my personal notes on various topics.
    - Memory Management
 4. [**Embedded Systems**](./Embedded_Systems) 
    - [Embedded System Basics](./Embedded_Systems/Embedded_System_Basics.md)
+      - Architecture
+      - Memory
+      - Miscellaneous Important Topics    
    - [Embedded Linux Systems](./Embedded_Systems/Embedded_Linux_Systems.md)
+      - Development Tools
+      - Configuration Steps
+      - Serial Console
    - [Real-Time Operating Systems](./Embedded_Systems/RealTime_OS.md)
+      -  Tick Timer
+      -  Tasks
+      -  Contexts
+      -  Task Control Blocks
+      -  Memory Management
    - [Communication Protocols](./Embedded_Systems/Communication_Protocols.md)
+      - Bluetooth Low Energy
+      - I2C
+      - SPI
+      - UART
+      - USB
+      - Ethernet/EtherCAT 
 5. [**Python Basics**](Python_Basics.md)
    - Numbers
    - Strings
