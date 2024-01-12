@@ -14,8 +14,8 @@ This repository contains my personal notes on various topics.
 3. [**C Memory Management**](C_Programming.md)
    - Pointers
    - Memory Management
-4. [**Embedded Systems**](Embedded_Systems.md) 
-   - Architecure and Memory
+4. [**Embedded Systems**](./Embedded_Systems) 
+   - [Embedded System Basics](./Embedded_Systems/Embedded_System_Basics.md)
    - Embedded Linux Systems
    - Real-Time Operating Systems
    - Communication Protocols (BLE, I2C, SPI, UART, USB, Ethernet/EtherCAT)
